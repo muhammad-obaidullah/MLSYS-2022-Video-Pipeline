@@ -1,7 +1,5 @@
 # Video-Data Pipelines for Machine Learning Applications 
 
-## Submitted for review to MLSYS 2022 conference.
-
 ## Project Description
 Computer Vision applications rely of large volumes of video data to be processed to learn the patterns related to the objects/regions of interest. From robotic vision to object detection and real-time object tracking applications for autonomous drive, there is a need to isolate _quality_ image frames from long sequence of videos that can then train respective machine learning (ML) applications. The video-data processing pipeline can be combined with modeling and deployment pipelines specifically for video/image-based ML applications. 
 <img src=".media\Process-Overview.png" alt=".media\Process-Overview.png"></img>
@@ -23,5 +21,3 @@ The `yaml` file contains the following metadata of the video:
 <img src=".media\yaml.png" alt=".media\yaml.png"></img>
 
 Example of `yaml` output
-
-Please get in touch with me at jamesysato@gmail.com if you have any questions or inquiries.
